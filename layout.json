@@ -1,0 +1,1117 @@
+[
+  {
+    "page": 1,
+    "items": [
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 134.77423095703125
+        },
+        "size": {
+          "width": 52.212690353393555,
+          "height": 13.488677978515625
+        },
+        "color": 16777215,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 11.24055290222168,
+        "thickness": null,
+        "text": "Sprachen"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 156.22393798828125
+        },
+        "size": {
+          "width": 51.15650749206543,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Deutsch: B1"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 166.71511840820312
+        },
+        "size": {
+          "width": 73.03362083435059,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Englisch: Sehr gut"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 177.206298828125
+        },
+        "size": {
+          "width": 111.12826347351074,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Französisch: Muttersprache"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 187.69747924804688
+        },
+        "size": {
+          "width": 99.31507682800293,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Arabisch: Muttersprache"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 198.1886749267578
+        },
+        "size": {
+          "width": 73.6861400604248,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Türkisch: Sehr gut"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 223.94927978515625
+        },
+        "size": {
+          "width": 56.92249870300293,
+          "height": 13.488677978515625
+        },
+        "color": 16777215,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 11.24055290222168,
+        "thickness": null,
+        "text": "Interessen"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 245.39898681640625
+        },
+        "size": {
+          "width": 104.7460765838623,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Interkultureller Austausch"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 255.89016723632812
+        },
+        "size": {
+          "width": 37.837636947631836,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "(Erasmus)"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 266.38134765625
+        },
+        "size": {
+          "width": 26.072843551635742,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Sport"
+      },
+      {
+        "position": {
+          "x": 26.977327346801758,
+          "y": 276.8725280761719
+        },
+        "size": {
+          "width": 66.08920860290527,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Sprachenlernen"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 14.889986991882324
+        },
+        "size": {
+          "width": 30.774368286132812,
+          "height": 11.69017505645752
+        },
+        "color": 2236962,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 9.741812705993652,
+        "thickness": null,
+        "text": "Manar"
+      },
+      {
+        "position": {
+          "x": 247.24533081054688,
+          "y": 14.889986991882324
+        },
+        "size": {
+          "width": 39.717437744140625,
+          "height": 11.69017505645752
+        },
+        "color": 2236962,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 9.741812705993652,
+        "thickness": null,
+        "text": "Limame"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 32.84489440917969
+        },
+        "size": {
+          "width": 56.804412841796875,
+          "height": 15.287155151367188
+        },
+        "color": 2862050,
+        "fontname": "VisbyCF-Bold",
+        "fontsize": 12.739294052124023,
+        "thickness": null,
+        "text": "Studentin"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 53.560211181640625
+        },
+        "size": {
+          "width": 348.9075927734375,
+          "height": 11.032356262207031
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Informatikstudentin im 3. Semester mit praktischer Erfahrung in Python, Datenanalyse und"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 64.0513916015625
+        },
+        "size": {
+          "width": 65.40679931640625,
+          "height": 11.032356262207031
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Webentwicklung."
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 74.54257202148438
+        },
+        "size": {
+          "width": 347.07122802734375,
+          "height": 11.032356262207031
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Interesse an Werkstudententätigkeiten im Bereich Softwareentwicklung, Data Science oder"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 85.03376770019531
+        },
+        "size": {
+          "width": 42.31988525390625,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "IT-Support."
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 95.52494812011719
+        },
+        "size": {
+          "width": 336.32513427734375,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Arbeite strukturiert, lerne schnell und bringe hohe Motivation mit, theoretisches Wissen"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 106.01612854003906
+        },
+        "size": {
+          "width": 87.91213989257812,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "praxisnah einzusetzen."
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 131.77676391601562
+        },
+        "size": {
+          "width": 148.4775390625,
+          "height": 13.488662719726562
+        },
+        "color": 2862050,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 11.24055290222168,
+        "thickness": null,
+        "text": "Diplome und Ausbildungen"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 223.94927978515625
+        },
+        "size": {
+          "width": 46.041595458984375,
+          "height": 13.488677978515625
+        },
+        "color": 2862050,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 11.24055290222168,
+        "thickness": null,
+        "text": "Projekte"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 245.2259063720703
+        },
+        "size": {
+          "width": 293.71392822265625,
+          "height": 11.386550903320312
+        },
+        "color": 0,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Entwicklung eines Machine-Learning-Modells zur Diabetes-Vorhersage"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 255.89016723632812
+        },
+        "size": {
+          "width": 294.9732666015625,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Datenaufbereitung, Feature Engineering und Modellbewertung (scikit-learn)"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 266.38134765625
+        },
+        "size": {
+          "width": 164.467041015625,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Erreichen einer Klassifikationsgenauigkeit"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 281.1957092285156
+        },
+        "size": {
+          "width": 347.330078125,
+          "height": 11.38653564453125
+        },
+        "color": 0,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Entwicklung eines Machine-Learning-Modells zur Erkennung von Kreditkartenbetrug"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 291.8599548339844
+        },
+        "size": {
+          "width": 329.09552001953125,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Analyse und Vorverarbeitung eines unausgeglichenen Datensatzes (Class Imbalance)"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 302.35113525390625
+        },
+        "size": {
+          "width": 344.9490966796875,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Anwendung von Klassifikationsalgorithmen und Evaluierung mittels Precision, Recall und"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 312.8423156738281
+        },
+        "size": {
+          "width": 33.9854736328125,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Accuracy"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 323.33349609375
+        },
+        "size": {
+          "width": 235.28927612304688,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Umsetzung des Projekts mit Python, Pandas und scikit-learn"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 338.1478271484375
+        },
+        "size": {
+          "width": 319.86767578125,
+          "height": 11.38653564453125
+        },
+        "color": 0,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Entwicklung eines Machine-Learning-Modells zur Erkennung von Sentiment in"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 348.6390075683594
+        },
+        "size": {
+          "width": 130.77398681640625,
+          "height": 11.38653564453125
+        },
+        "color": 0,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Filmbewertungen (Python, NLP)"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 359.3032531738281
+        },
+        "size": {
+          "width": 279.78375244140625,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Klassifikation von Textbewertungen in positive und negative Sentiments"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 369.79443359375
+        },
+        "size": {
+          "width": 331.93927001953125,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Textvorverarbeitung (Tokenisierung, Entfernen von Stoppwörtern, Feature-Extraktion)"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 380.28564453125
+        },
+        "size": {
+          "width": 204.98321533203125,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Training und Evaluation eines Klassifikationsmodells"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 390.7768249511719
+        },
+        "size": {
+          "width": 178.56396484375,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Umsetzung mit Python und NLP-Bibliotheken"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 416.53741455078125
+        },
+        "size": {
+          "width": 84.34967041015625,
+          "height": 13.488677978515625
+        },
+        "color": 2862050,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 11.24055290222168,
+        "thickness": null,
+        "text": "EDV/Computer"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 437.8140869140625
+        },
+        "size": {
+          "width": 93.16543579101562,
+          "height": 11.38653564453125
+        },
+        "color": 0,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Technische Kenntnisse"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 448.47833251953125
+        },
+        "size": {
+          "width": 177.49569702148438,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Programmiersprachen: Python, C, C++, Kotlin"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 458.9695129394531
+        },
+        "size": {
+          "width": 86.88616943359375,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Web: HTML, CSS, SQL"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 469.460693359375
+        },
+        "size": {
+          "width": 164.43350219726562,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Data Science: Pandas, NumPy, scikit-learn"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 479.9518737792969
+        },
+        "size": {
+          "width": 113.76141357421875,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Tools: Git, WordPress, Canva"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 494.7662048339844
+        },
+        "size": {
+          "width": 71.92288208007812,
+          "height": 11.38653564453125
+        },
+        "color": 0,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Software & Office"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 505.43048095703125
+        },
+        "size": {
+          "width": 136.19302368164062,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Microsoft Word, Excel, PowerPoint"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 515.921630859375
+        },
+        "size": {
+          "width": 76.81820678710938,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Google Workspace"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 541.6822509765625
+        },
+        "size": {
+          "width": 77.29058837890625,
+          "height": 13.4886474609375
+        },
+        "color": 2862050,
+        "fontname": "VisbyCF-Heavy",
+        "fontsize": 11.24055290222168,
+        "thickness": null,
+        "text": "Kompetenzen"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 562.9588623046875
+        },
+        "size": {
+          "width": 107.03628540039062,
+          "height": 11.3865966796875
+        },
+        "color": 0,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Persönliche Kompetenzen"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 573.6231689453125
+        },
+        "size": {
+          "width": 105.37939453125,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Strukturierte Arbeitsweise"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 584.1143188476562
+        },
+        "size": {
+          "width": 135.17355346679688,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Teamfähigkeit und Zuverlässigkeit"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 594.6055297851562
+        },
+        "size": {
+          "width": 105.04144287109375,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Schnelle Auffassungsgabe"
+      },
+      {
+        "position": {
+          "x": 214.31988525390625,
+          "y": 605.0966796875
+        },
+        "size": {
+          "width": 124.24984741210938,
+          "height": 11.0323486328125
+        },
+        "color": 0,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "• Gute Kommunikationsfähigkeit"
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 14.592960357666016
+        },
+        "size": {
+          "width": 103.26922225952148,
+          "height": 11.032354354858398
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "limame.manar@gmail.com"
+      },
+      {
+        "position": {
+          "x": 30.3494930267334,
+          "y": 17.663726806640625
+        },
+        "size": {
+          "width": 8.243074417114258,
+          "height": 8.243072509765625
+        },
+        "color": 15000804,
+        "fontname": "FontAwesome",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": ""
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 28.081623077392578
+        },
+        "size": {
+          "width": 75.37017440795898,
+          "height": 11.032352447509766
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Wittekindstrasse 98"
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 38.57280731201172
+        },
+        "size": {
+          "width": 40.102542877197266,
+          "height": 11.032352447509766
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Dortmund"
+      },
+      {
+        "position": {
+          "x": 30.642215728759766,
+          "y": 31.152389526367188
+        },
+        "size": {
+          "width": 7.657814025878906,
+          "height": 8.243072509765625
+        },
+        "color": 15000804,
+        "fontname": "FontAwesome",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": ""
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 52.06147003173828
+        },
+        "size": {
+          "width": 93.84777450561523,
+          "height": 11.032352447509766
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Geboren am 20/03/2005"
+      },
+      {
+        "position": {
+          "x": 30.642215728759766,
+          "y": 55.13223648071289
+        },
+        "size": {
+          "width": 7.657814025878906,
+          "height": 8.243072509765625
+        },
+        "color": 15000804,
+        "fontname": "FontAwesome",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": ""
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 65.55014038085938
+        },
+        "size": {
+          "width": 40.048282623291016,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Tunesierin"
+      },
+      {
+        "position": {
+          "x": 30.3494930267334,
+          "y": 68.62090301513672
+        },
+        "size": {
+          "width": 8.243074417114258,
+          "height": 8.243072509765625
+        },
+        "color": 15000804,
+        "fontname": "FontAwesome",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": ""
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 79.03880310058594
+        },
+        "size": {
+          "width": 82.55562973022461,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Open to remote work"
+      },
+      {
+        "position": {
+          "x": 30.045063018798828,
+          "y": 82.10956573486328
+        },
+        "size": {
+          "width": 8.828330993652344,
+          "height": 8.243072509765625
+        },
+        "color": 15000804,
+        "fontname": "FontAwesome",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": ""
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 92.5274658203125
+        },
+        "size": {
+          "width": 40.102542877197266,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Dortmund"
+      },
+      {
+        "position": {
+          "x": 32.105831146240234,
+          "y": 95.59822845458984
+        },
+        "size": {
+          "width": 4.706794738769531,
+          "height": 8.243072509765625
+        },
+        "color": 15000804,
+        "fontname": "FontAwesome",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": ""
+      },
+      {
+        "position": {
+          "x": 45.71158218383789,
+          "y": 106.01612854003906
+        },
+        "size": {
+          "width": 58.72365188598633,
+          "height": 11.0323486328125
+        },
+        "color": 15000804,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "015510 381587"
+      },
+      {
+        "position": {
+          "x": 30.934938430786133,
+          "y": 109.0868911743164
+        },
+        "size": {
+          "width": 7.064313888549805,
+          "height": 8.243072509765625
+        },
+        "color": 15000804,
+        "fontname": "FontAwesome",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": ""
+      },
+      {
+        "position": {
+          "x": 233.8035125732422,
+          "y": 153.05337524414062
+        },
+        "size": {
+          "width": 165.6032257080078,
+          "height": 11.386550903320312
+        },
+        "color": 1118481,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Bachelor of Science Informatik (laufend)"
+      },
+      {
+        "position": {
+          "x": 233.8035125732422,
+          "y": 166.71511840820312
+        },
+        "size": {
+          "width": 52.68144226074219,
+          "height": 11.0323486328125
+        },
+        "color": 7829367,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Oktober 2024"
+      },
+      {
+        "position": {
+          "x": 289.4793701171875,
+          "y": 166.71511840820312
+        },
+        "size": {
+          "width": 125.273193359375,
+          "height": 11.0323486328125
+        },
+        "color": 2862050,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Technische universitätDortmund"
+      },
+      {
+        "position": {
+          "x": 414.75299072265625,
+          "y": 166.71511840820312
+        },
+        "size": {
+          "width": 99.4549560546875,
+          "height": 11.0323486328125
+        },
+        "color": 4473924,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Dortmund, NW, Germany"
+      },
+      {
+        "position": {
+          "x": 233.8035125732422,
+          "y": 183.02818298339844
+        },
+        "size": {
+          "width": 176.2615509033203,
+          "height": 11.386550903320312
+        },
+        "color": 1118481,
+        "fontname": "OpenSans-Bold",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Abitur – mathematisch-naturwissenschaftl"
+      },
+      {
+        "position": {
+          "x": 233.8035125732422,
+          "y": 196.68992614746094
+        },
+        "size": {
+          "width": 131.1442413330078,
+          "height": 11.0323486328125
+        },
+        "color": 7829367,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Von September 2022 bis Juni 2023"
+      },
+      {
+        "position": {
+          "x": 367.9407653808594,
+          "y": 196.68992614746094
+        },
+        "size": {
+          "width": 69.62924194335938,
+          "height": 11.0323486328125
+        },
+        "color": 2862050,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "lycée pilote Gabes"
+      },
+      {
+        "position": {
+          "x": 437.57366943359375,
+          "y": 196.68992614746094
+        },
+        "size": {
+          "width": 29.099639892578125,
+          "height": 11.0323486328125
+        },
+        "color": 4473924,
+        "fontname": "OpenSans",
+        "fontsize": 8.243072509765625,
+        "thickness": null,
+        "text": "Tunisia"
+      }
+    ]
+  }
+]
